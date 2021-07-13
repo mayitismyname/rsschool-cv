@@ -12,7 +12,7 @@ My main aim is to develop programming skills. I can easily communicate and work 
 * Python
 * Git
 
-## *Expirience*
+## *Experience*
 * Rolling Scopes School (Stage #0)
 
 ## *Education*
@@ -21,3 +21,5 @@ My main aim is to develop programming skills. I can easily communicate and work 
 *Minsk State Linguistic University* - bachelor's degree, specialization computer linguistics (2021)
 
 English level - C1, fluent colloquial speech
+
+Spanish level - A2
