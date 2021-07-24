@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(232, 240, 247);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: normal 22px black;
+}
+header {
+    color:black (13, 49, 90); 
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    font-style: italic;
+}
+h2 {
+    color:black (13, 49, 90); 
+    font-family:Georgia, 'Times New Roman';
+    font-size: 22px;
+}
+section {
+    color:black (13, 49, 90); 
+    font-family:Georgia, 'Times New Roman';
+    font-size: 22px
+}
+.about {
+    color:black (13, 49, 90); 
+    font-family:Georgia, 'Times New Roman';
+    font-size: 22px;
+    position: relative;
+    top: 160px;
+    right: 270px;
+}
+.userpic {
+    position: relative;
+    bottom: 100px;
+}
+.content {
+    max-width: 500px;
+    margin: auto;
+}
